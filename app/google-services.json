@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119657431598",
+    "firebase_url": "https://dialabarapp.firebaseio.com",
+    "project_id": "dialabarapp",
+    "storage_bucket": "dialabarapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119657431598:android:d8c92450e8439777d615bf",
+        "android_client_info": {
+          "package_name": "com.example.dialabarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119657431598-t50ps599uk2rvrpkkesttkthf8oiv982.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzLo31vlkGUfs4YrLvflIqMUM4bhaUOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119657431598-t50ps599uk2rvrpkkesttkthf8oiv982.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
